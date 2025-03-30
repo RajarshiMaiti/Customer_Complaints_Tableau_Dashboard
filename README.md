@@ -1,9 +1,9 @@
 **Project Overview:-**
 
-**Introduction**
+**Introduction:-**
 The Customer Complaint Dashboard is a Tableau project designed to provide a comprehensive overview of customer complaints across various categories and time frames. The dashboard aims to help organizations analyze complaint trends, identify key issues, and enhance customer satisfaction by improving service delivery.
 
-**Key Features**
+**Key Features:-**
 
 Total Complaints Overview
 
@@ -54,6 +54,6 @@ Yearly Trend Analysis
 A trend line graph depicts the year-over-year changes in complaint volume, enabling stakeholders to assess the effectiveness of implemented changes and monitor ongoing issues.
 
 
-**Conclusion**
+**Conclusion:-**
 
 The Customer Complaint Dashboard serves as a vital tool for organizations to analyze customer feedback and enhance service quality. By leveraging the visualizations provided, stakeholders can identify trends, address specific complaint categories, and implement data-driven strategies to improve customer satisfaction. This project underscores the importance of proactive complaint management in fostering positive customer relationships and improving overall service delivery.
